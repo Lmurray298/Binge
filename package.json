@@ -1,0 +1,31 @@
+{
+  "name": "Project-2",
+  "version": "1.0.0",
+  "description": "team project 2 reelBinge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lmurray298/Project-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lmurray298/Project-2/issues"
+  },
+  "homepage": "https://github.com/Lmurray298/Project-2#readme",
+  "dependencies": {
+    "env": "0.0.2",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "method-override": "^3.0.0",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.5",
+    "request": "^2.88.0",
+    "sequelize": "^5.2.8"
+  }
+}
