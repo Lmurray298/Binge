@@ -39,6 +39,7 @@
 
 #add-movie-button {
     margin-top: 16px;
+    margin-right: 3px;
     border-radius: 0;
     float: right;
     height: 26px;
